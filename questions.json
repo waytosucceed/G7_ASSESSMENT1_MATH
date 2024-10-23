@@ -1,0 +1,608 @@
+{
+    "heading": "Indices",
+    "topics": [
+      {
+        "heading": "Indices",
+        "questions": [
+          {
+            "questionNo": 1,
+            "question": "Write the following equation in the expanded form:<br>5<sup>2</sup>",
+            "options": [
+              { "text": "5 × 5" },
+              { "text": "5 × 2" },
+              { "text": "2 × 5" },
+              { "text": "None of these" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 2,
+            "question": "Write the following equation in the expanded form:<br>11<sup>2</sup>",
+            "options": [
+              { "text": "11 × 2" },
+              { "text": "11 × 11" },
+              { "text": "2 × 11" },
+              { "text": "None of these" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 3,
+            "question": "Simplified:<br><img width='50%' src='./assests/images/question/1.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "5" },
+              { "text": "15" },
+              { "text": "7" }
+            ],
+            "answer": 1,
+            "explanation": "LCM (8,12)= 24 => 24/8 = 3 boxes of cookies; 24/12= 2 boxes of cakes."
+          },
+          {
+            "questionNo": 4,
+            "question": "Simplified:<br><img width='50%' src='./assests/images/question/2.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "9" },
+              { "text": "12" },
+              { "text": "13" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 5,
+            "question": "Write the following equation in the expanded form:<br>4<sup>3</sup>",
+            "options": [
+              { "text": "3 × 3 × 3" },
+              { "text": "4 × 4 × 4"  },
+              { "text": "4 × 4 × 4 × 4"  },
+              { "text": "3 × 3 × 3 × 3" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 6,
+            "question": "Write the following equation in the expanded form:<br>2<sup>5</sup>",
+            "options": [
+              { "text": "2 × 2 × 2 × 2 × 2" },
+              { "text": "5 × 5 × 5 × 5 × 5"  },
+              { "text": "5 × 5"  },
+              { "text": "2 × 2 " }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 7,
+            "question": "Write the following equation in the index form:<br>7 × 7 × 7",
+            "options": [
+              { "text": "3<sup>7</sup>" },
+              { "text": "7<sup>2</sup>"  },
+              { "text": "7<sup>3</sup>"  },
+              { "text": "7<sup>4</sup>" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 8,
+            "question": "Write the following equation in the index form:<br>9 × 9 × 9",
+            "options": [
+              { "text": "9<sup>3</sup>" },
+              { "text": "9<sup>2</sup>"  },
+              { "text": "3<sup>9</sup>"  },
+              { "text": "3<sup>3</sup>" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 9,
+            "question": "Simplified:<br><img width='50%' src='./assests/images/question/3.png'>",
+            "options": [
+              { "text": "1" },
+              { "text": "2"  },
+              { "text": "3"  },
+              { "text": "4" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 10,
+            "question": "Simplified:<br><img width='50%' src='./assests/images/question/4.png'>",
+            "options": [
+              { "text": "7" },
+              { "text": "3"  },
+              { "text": "27"  },
+              { "text": "17" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 11,
+            "question": "Simplified:<br><img width='50%' src='./assests/images/question/5.png'>",
+            "options": [
+              { "text": "1" },
+              { "text": "10"  },
+              { "text": "100"  },
+              { "text": "1000" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 12,
+            "question": "Find the square root of: 9",
+            "options": [
+              { "text": "71" },
+              { "text": "64" },
+              { "text": "81" },
+              { "text": "None of these" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 13,
+            "question": "Find the square root of: 12",
+            "options": [
+              { "text": "144" },
+              { "text": "124" },
+              { "text": "114" },
+              { "text": "244" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 14,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/6.png'>",
+            "options": [
+              { "text": "13" },
+              { "text": "14" },
+              { "text": "15" },
+              { "text": "16" }
+            ],
+            "answer": 2,
+            "explanation": "LCM (8,12)= 24 => 24/8 = 3 boxes of cookies; 24/12= 2 boxes of cakes."
+          },
+          {
+            "questionNo": 15,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/7.png'>",
+            "options": [
+              { "text": "13" },
+              { "text": "14" },
+              { "text": "15" },
+              { "text": "16" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 16,
+            "question": "Find the positive number that must be squared to give: 441",
+            "options": [
+              { "text": "12" },
+              { "text": "19"  },
+              { "text": "31"  },
+              { "text": "21" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 17,
+            "question": "If 18<sup>2</sup> = 324,<br><img width='50%' src='./assests/images/question/8.png'>",
+            "options": [
+              { "text": "17" },
+              { "text": "18"  },
+              { "text": "19"  },
+              { "text": "28" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 18,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/9.png'>",
+            "options": [
+              { "text": "13" },
+              { "text": "19"  },
+              { "text": "29"  },
+              { "text": "23" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 19,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/10.png'>",
+            "options": [
+              { "text": "12" },
+              { "text": "14"  },
+              { "text": "8"  },
+              { "text": "13" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 20,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/11.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "13"  },
+              { "text": "19"  },
+              { "text": "9" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 21,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/12.png'>",
+            "options": [
+              { "text": "14" },
+              { "text": "24"  },
+              { "text": "15"  },
+              { "text": "25" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 22,
+            "question": "Complete:<br>If 17 × 17 = 289,<br> <img width='50%' src='./assests/images/question/13.png'>",
+            "options": [
+              { "text": "7" },
+              { "text": "17"  },
+              { "text": "13"  },
+              { "text": "23" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 23,
+            "question": "Complete:<br>If 12 × 12 × 12 = 1728,<br> <img width='50%' src='./assests/images/question/14.png'>",
+            "options": [
+              { "text": "12" },
+              { "text": "13"  },
+              { "text": "14"  },
+              { "text": "None of these" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 24,
+            "question": "Complete:<br>If 9<sup>3</sup> = 729,<br> <img width='50%' src='./assests/images/question/15.png'>",
+            "options": [
+              { "text": "3" },
+              { "text": "13"  },
+              { "text": "9"  },
+              { "text": "2" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 25,
+            "question": "Complete:<br>If (11 × 12) × (11 × 12) = 17424,<br> <img width='50%' src='./assests/images/question/16.png'>",
+            "options": [
+              { "text": "12 × 13" },
+              { "text": "11 × 11"  },
+              { "text": "11 × 12"  },
+              { "text": "12 × 12" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 26,
+            "question": "Complete:<br>If (5 × 6 × 12)<sup>3</sup> = 46,656,000,<br> <img width='50%' src='./assests/images/question/17.png'>",
+            "options": [
+              { "text": "5 × 6 × 11" },
+              { "text": "5 × 3 × 12"  },
+              { "text": "2 × 6 × 12"  },
+              { "text": "5 × 6 × 12" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 27,
+            "question": "Find the Base and Power:<br>(-7)<sup>8</sup>",
+            "options": [
+              { "text": "Base = -7, Power = 8" },
+              { "text": "Base = 8, Power = -7"  }
+              
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 28,
+            "question": "Find the Base and Power:<br>(-25)<sup>3</sup>",
+            "options": [
+              { "text": "Base = -25, Power = 3" },
+              { "text": "Base = 3, Power = -25"  }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 29,
+            "question": "Find the value of:(-7)<sup>3</sup>",
+            "options": [
+              { "text": "343" },
+              { "text": "-343"  },
+              { "text": "21"  },
+              { "text": "-21" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 30,
+            "question": "Find the value of:(-8)<sup>2</sup>",
+            "options": [
+              { "text": "-64" },
+              { "text": "4"  },
+              { "text": "64"  },
+              { "text": "-4" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 31,
+            "question": "Simplify:<br>9<sup>3</sup> × 9<sup>5</sup>",
+            "options": [
+              { "text": "9<sup>15</sup>" },
+              { "text": "9<sup>8</sup>"  },
+              { "text": "9<sup>5</sup>"  },
+              { "text": "9<sup>3</sup>" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 32,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/18.png'>",
+            "options": [
+              { "text": "15" },
+              { "text": "20"  },
+              { "text": "25"  },
+              { "text": "35" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 33,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/19.png'>",
+            "options": [
+              { "text": "19" },
+              { "text": "18"  },
+              { "text": "17"  },
+              { "text": "29" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 34,
+            "question": "Express into power notation:<br>3<sup>4</sup> × 7<sup>4</sup>",
+            "options": [
+              { "text": "21<sup>4</sup>" },
+              { "text": "21<sup>8</sup>"  },
+              { "text": "21<sup>16</sup>"  },
+              { "text": "Nonr of these" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 35,
+            "question": "Express into power notation:<br>8<sup>7</sup> × 8<sup>5</sup>",
+            "options": [
+              { "text": "8<sup>12</sup>" },
+              { "text": "8<sup>3</sup>"  },
+              { "text": "64<sup>12</sup>"  },
+              { "text": "8<sup>5</sup>" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 36,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/20.png'>",
+            "options": [
+              { "text": "19" },
+              { "text": "18"  },
+              { "text": "17"  },
+              { "text": "29" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 37,
+            "question": "If 23<sup>2</sup> = 529,<br><img width='50%' src='./assests/images/question/21.png'>",
+            "options": [
+              { "text": "19" },
+              { "text": "29"  },
+              { "text": "23"  },
+              { "text": "13" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 38,
+            "question": "Determine the digit at the ones place in the squares of the given number:22360",
+            "options": [
+              { "text": "2" },
+              { "text": "3"  },
+              { "text": "6"  },
+              { "text": "0" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 39,
+            "question": "Determine the digit at the ones place in the squares of the given number:25117",
+            "options": [
+              { "text": "9" },
+              { "text": "2"  },
+              { "text": "1"  },
+              { "text": "5" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 40,
+            "question": "Determine the digit at the ones place in the squares of the given number:2934",
+            "options": [
+              { "text": "2" },
+              { "text": "9"  },
+              { "text": "3"  },
+              { "text": "6" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 41,
+            "question": "Find the square root of: 17",
+            "options": [
+              { "text": "289" },
+              { "text": "169"  },
+              { "text": "269"  },
+              { "text": "189" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 42,
+            "question": "Find the square root of: 19",
+            "options": [
+              { "text": "369" },
+              { "text": "221"  },
+              { "text": "361"  },
+              { "text": "359" }
+            ],
+            "answer": 2,
+            "explanation": ""
+          },
+          {
+            "questionNo": 43,
+            "question": "Find the cube root of: 12",
+            "options": [
+              { "text": "1228" },
+              { "text": "1728"  },
+              { "text": "1628"  },
+              { "text": "1568" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 44,
+            "question": "Find the cube root of: 9",
+            "options": [
+              { "text": "639" },
+              { "text": "629"  },
+              { "text": "739"  },
+              { "text": "729" }
+            ],
+            "answer": 3,
+            "explanation": ""
+          },
+          {
+            "questionNo": 45,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/24.png'>",
+            "options": [
+              { "text": "20" },
+              { "text": "40"  },
+              { "text": "60"  },
+              { "text": "25" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 46,
+            "question": "Evaluate:<br><img width='50%' src='./assests/images/question/25.png'>",
+            "options": [
+              { "text": "14" },
+              { "text": "13"  },
+              { "text": "18"  },
+              { "text": "8" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 47,
+            "question": "Write  the equation in expended form:<br>8<sup>3</sup>",
+            "options": [
+              { "text": "3 × 3 × 3" },
+              { "text": "8 × 8 × 8"  },
+              { "text": "8 × 8 × 8 × 8"  },
+              { "text": "3 × 3 × 3 × 3" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 48,
+            "question": "Find the value of:<br>(-8)<sup>4</sup>",
+            "options": [
+              { "text": "4096" },
+              { "text": "-4096"  },
+              { "text": "2096"  },
+              { "text": "-2096" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          },
+          {
+            "questionNo": 49,
+            "question": "Observe the pattern and fille the blank:<br><img width='70%' src='./assests/images/question/22.png'>",
+            "options": [
+              { "text": "10203040201" },
+              { "text": "1020304030201"  },
+              { "text": "10203040504030201"  },
+              { "text": "10203040302010" }
+            ],
+            "answer": 1,
+            "explanation": ""
+          },
+          {
+            "questionNo": 50,
+            "question": "Look at the pattern and fill in the blanks:<br><img width='90%' src='./assests/images/question/23.png'>",
+            "options": [
+              { "text": "31<sup>2</sup>" },
+              { "text": "32<sup>2</sup>"  },
+              { "text": "30<sup>2</sup>"  },
+              { "text": "33<sup>2</sup>" }
+            ],
+            "answer": 0,
+            "explanation": ""
+          }
+        ]
+      }
+    ]
+  }
+  
